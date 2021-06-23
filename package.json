@@ -1,0 +1,22 @@
+{
+  "name": "responsive-website-restaurant",
+  "version": "1.0.0",
+  "description": "Nice design of a responsive restaurant website 🥗 . It contains a header, home, about, services, menu, app, contact and a footer. It also has a fully developed light/dark mode 🌓 first for mobile then for desktop.",
+  "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bedimcode/responsive-website-restaurant.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bedimcode/responsive-website-restaurant/issues"
+  },
+  "homepage": "https://github.com/bedimcode/responsive-website-restaurant#readme"
+}
